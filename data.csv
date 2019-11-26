@@ -1,0 +1,215 @@
+location,name,owner,type,department,brand,servicetag,processor,ram,cpu,hdd,macwifi,maclan,os,windowsid,screen,screenserial,serial,warranty,date
+OFFICE,IT/MN/01,อุทร(ต่อ),PC (Mac),Office,Apple,,,4.0 GB,2.5 GHz,,,28-CF-E9-04-7F-41,Win8.1 pro 64bit&IOS,,Aoc,,,,
+OFFICE,IT/MN/02,กมลวรรณ(วรรณ),PC (Mac),Office,Apple,,,4.0 GB,2.5 GHz,,,88-53-95-31-28-71,Win8.1 pro 64bit&IOS,00261-80357-93044-AA157,Aoc,,,,
+OFFICE,IT/SV/03,เครื่อง server,Mac Server,Office,Apple,,Quad-Core Intel Xeon,8.0 GB,2.8 GHz,,,44-D8-84-6D-12-F3,Win Server2008&IOS,,Aoc,,,,
+OFFICE,HR/MN/04,พรทิพย์(ปู),PC (Mac),Office,Apple,,,2.0 GB,2.8 GHz,,,20-CF-30-AC-44-3A,Win 7 32bit &IOS,,Acer  G205HL,ETLLJ0W011123062994321,,,
+OFFICE,AC/MN/05,เสริมสกุล,PC (Mac),Office,Apple,C07H93UWDJD1,Intel® Core™i5-2520M,4.0 GB,2.5 GHz,500GB,70-73-CB-BE-FB-F1,40-6C-8F-05-5C-E6,Win7 64bit&IOS,,Acer X193 HQ,ETELHC012494426055405F,,,
+OFFICE,AD/MN/06,ปทิดา,PC (Mac),Office,Apple,C07H70U8DJD1,Intel® Core™i5-2520M,4.0 GB,2.5 GHz,500GB,70-73-CB-C0-31-BF,3C-07-54-72-ED-C8,Win7 64bit&IOS,,HP  W1707,CNC8280BZ8,,,
+OFFICE,BD/MN/07,เสริมสกุล,PC (Mac),Office,Apple,,,8.0 GB,2.5 GHz,,,3C-07-54-6E-0A-7C,IOS,,Samsung  S23B370,,,,
+OFFICE,BD/MN/08,ยานิน,PC (Mac),Office,Apple,,,8.0 GB,2.5 GHz,,,10-DD-B1-A9-87-D1,IOS,,Samsung  S23B370,,,,
+OFFICE,BD/MN/09,เสริมสกุล,PC (Mac),Office,Apple,,,8.0 GB,2.5 GHz,,,10-DD-B1-A9-87-D1,IOS,,Dell,,,,
+OFFICE,GM/MB/02,ฉัตรชัย(พี่ฉัตร),Macbook,70:30,Apple,,Intel® Core™i5-2520M,4.0 GB,2.5 GHz,128GB,,,,,,,,,
+OFFICE,BD/MB/03,ณิชากร(เกล้า),Macbook,Office,Apple,,Intel® Core™i5- 1.4GHz dual-core,4.0 GB,2.7 GHz,128GB,,,,,,,,,
+OFFICE,PMO/MB03,ชัยกฤต,Macbook,70:29,Apple,,,,,,,,,,,,,,
+OFFICE,BD/MN/10,พี่ผึ้ง,IMAC,Office,Apple,CO2W302NJ1G9,3 GHz intel Core i5,16GB,3 GHz,1 TB,24-f6-77-07-c3-82,78-7b-8a-c6-20-c4,IOS,,,,,Icare,
+Office,BSE/NB/01,ปุณยนุช(จี้),Notebook,Office,Lenovo,QB03815373,,Intel® Core™ i5-2430M,4.00 GB,2.40 GHz,650,D0-DF-9A-E6-E5-68,,Win7 32bit,,-,-,-,-
+Office,TN/NB/03,ปวีณา(เมย์),Notebook,Office,Asus,A2N0A136593064,S3000,Intel® Core™ i5-3317U,4.0 GB,1.70 GHz,500,6C-71-D9-50-7B-83,,Win8 SL 64bit,RRJ4K-28NWM-FT6GM-V2DTM-F88YD,-,,,
+Office,TN/NB/04,ปวีณา(เมย์),Notebook,Office,Lenovo,,G470,Intel® Core™ i3-3150M,4.0 GB,2.3 GHz,500,7C:E9:D3:38:18:89,DC:0E:A1:86:AF:70,Win7 Pro 64 bit,,-,,,
+Office,TN/NB/05,นริศรา(พี่ปู),Notebook,Office,Acer,,,Intel® Pentium® ,2.0GB,2.13 GHz,500,1C-65-9D-38-49-39,,Win7 32bit ,,-,,,
+Office,TN/NB/06,เกตุ,Notebook,Office,Dell,2TTCLW1,Inspiron 3437,Intel® Core™ i5-4200U,4.0 GB,"1.60 GH, 2.3GHz",650 GB,BC-85-56-9E-02-25,,Win7 64bit,,-,,1,2/7/57
+Office,TN/NB/07,TN,Notebook,Office,Dell,B95Q0K1,Inspiron 1440,Intel® Core 2 Duo T6600,2.0 GB,2.20 GHz,320 GB,70-1A-04-8B-AA-6D,,Win7 64bit ult,,-,24498413137,,
+Office,GM/NB/08,ศรายุทธ์(ยุทธ์),Notebook,70:30,Sony,275516307000334,Vaio  /  surface 3 update 24112560,,4.0 GB,2.80 GHz,,88-53-2E-85-39-2D,,Win7 64bit,3YVW8-R6DDD-QHF37-HDD9F-99CK9X16-96091,-,C60A1C0A,,
+Office,AD/NB/10,สุริสา(โบว์),Notebook,Office,Acer,D3N0BC027018105,,,4.00 GB,3.40 GHz,650GB,2C-D0-5A-40-90-31,,Win 7 64bit,,-,,,
+ราชมงคลคลอง6,RMUT/NB/11,อาคารทำเนียบองคมนตรี,Notebook,Office,Dell,H3VCLW1,Inspiron 3437,Intel® Core™ i5-4200U,4.0 GB,"1.60 GH, 2.3GHz",650 GB,BC-85-56-9E-02-25,,Win7 64bit,,-,,1,2/7/57
+Office,BD/NB/12,วิชัย(โจ้),Notebook,Office,Dell,G63DLW1,Inspiron 3437,Intel® Core™ i5-4200U,4.0 GB,"1.60 GHz, 2.3 GHz",650 GB,BC-85-56-9E-E7-57,E0-DB-55-A9-2E-29,Win7 64bit,,-,,1,2/7/57
+Office,ESS/NB/13,นพพล (ตอง),Notebook,Office,Asus,D6N0CX44941,K46CB,Intel® Core™ i5-4200U,4.0 GB,"1.60 GHz, 2.3 GHz",750 GB,24-FD-52-7A-A1-8D,,Win7 64bit,,-,,,
+Office,BD/NB/14,เกรียงไกร (แจ็ค),Notebook,Office,Toshiba,,,Intel® Core™2 Duo ,6.0 GB,1.6 GHz,,00-1C-BF-6A-8C-67,,Win 7 32 bit,,-,Y7317870Q,PSMC3L-043013,
+Office,OXY/NB/15,ณัฐรดา(แก้ม),Notebook,Office,Dell,8JQVLW1,Inspiron3437,Intel® Core™ i5-4200U,4.0 GB,1.60GHz,650,64-5A-07-80-A9-80,16-5A-04-80-A9-80,Win8.1 64 bit,,-,18608260753,,8/20/57
+Office,GM/NB/17,อัจฉรา(พี่ติ่ม),Notebook,Office,Asus,K451LB-WX060D,S3000,Intel® Core™ i7-4500U,4.0 GB,"1.8 GH,2.4 GHz",750GB,E0:3F:49:C3:7E:57,6C:71:D9:D4:FA:25,Win8.1 64 bit,00259-30843-29061-AAOEM,-,,3,7/4/57
+Office,CS/NB/18,วรพจน์(ท็อป),Notebook,70:30,Samsung,,,,4.0 GB,1.70 GHz,,C8-F7-33-95-42-07,,Win8 64bit,VNTYV-496Y4-KRCK3-J898R-X2BQ3,-,,,
+Office,BD/MB/19,อภิรักษ์(รักษ์),Notebook,70:30,Macbook Air,,,,3.0 GB,2.27 GHz,,78-DD-08-E5-60-48,,Win7 32bit,,-,,,
+Office,SS/NB/20,ชาญณรงค์(ชาญ),Notebook,Office,Dell,8TTCL6,Inspiron 3437,Intel® Core™ i5-4200U,4.0 GB,"1.60 GH, 2.3GHz",650 GB,BC-85-56-9E-02-25,,Win7 64bit,,-,,1,2/7/57
+บางปะกอก9,CIM/NB/23,ภูมิศิลป์(จอห์น),Notebook,Office,Dell,,Vostro 5470,Intel® Core™i5-4210U,4.0 GB,"1.70 GHz,2.40GHz",500 GB,,,,,-,,,11/18/57
+มนูญผล,BAM/NB/24,ภัทรพงศ์(ภัทร),Notebook,Office,Asus,D2N0AS13659406D,S3000,Intel® Core™i5-3317U,4.0 GB,1.70 GHz,650 GB,6C-71-D9-50-7B-89,1E-71-D9-50-7B-89,Win8 64bit,,-,,3 Y,
+ราชมงคลคลอง6,RMUT/NB/25,ธีรพงศ์(ต้า),Notebook,70:30,Samsung,HU4S91FC800108E,NP530U4C,Intel® Core™i5-3317U,4.0 GB,1.70 GHz,1 TB+EC 24GB,C4-85-08-7F-D9-1F,20:21:33:C5:GG:79,Win 8 32 bit,,-,-,1 Y,-
+Office,IT/NB/26,ชนะ(นค),Notebook,Office,Dell,4K5Q0K1,Inspiron 1440,Intel® Core 2 Duo,2.0 GB,2.20 GHz,320 GB,70-1A-04-8C-6A-EA,,Win 7 Pro 32 bit,FJ82H-XT6CR-J8D7P-XQJJ2-GPDD4,-,992604721,-,-
+Office,MD-NB-27,นิตยา ( พี่กุ้ง),Notebook,Office,Asus,,S3000,Intel® Core™ i7-4500U,4.0 GB,"1.8 GH,2.4 GHz",750GB,,,Win8.1 64 bit,00259-30843-29061-AAOEM,-,,3,7/4/57
+กกท,SAT/NB/28,กิตติศักดิ์(เบิ้ม),Notebook,70:30,Asus,F2N0WU131712078,,Intel® Core™i3-5010UU,4.0 GB,2.1 GHz,1 TB,,,Win 7 64 bit,,-,,1 Y,5/28/58
+ริชมอนด์,RMH/NB/29,เกรียงไกร(แจ็ค),Notebook,70:30,Asus,,,,,,,,,,,-,,,
+รพ.ตรัง,TGH/NB/31,คุณอมร(โจ),Notebook,Office,Asus,,,,,,,,,,,-,,,
+Mini Plant,MNP/NB/32,สุรัตน์(ปิ้ก),Notebook,Office,Toshiba,,,Intel Core 2 DUO T8100,2.0 GB,2.10 GHz,250 GB,,,Win 7 32 bit,,-,,,
+Mini Plant,VBH/NB/33,สุเทพ(พี่เทพ),Notebook,70:30,,,,Intel® Core™i5-3210M,8.0 GB,2.50 GHz,750 GB,,,Win 7 Ult 64 bit,,-,,,
+อิมพีเรียลสำโรง,IPS/NB/34,อิมฯ สำโรง,Notebook,Office,Acer,,,,,,,,,,,-,,,
+อิมพีเรียลสำโรง,IPS/NB/35,วศิน(เติม),Notebook,70:30,Asus,,,,,,,,,,,-,,,
+Office,QS/NB/37,ณฐวรรณ(พี่โรส),Notebook,Office,Dell,  ,,Intel® Core™i7-4510U,8.0 GB,"2.00 GHz,2.6 GHz",1 TB,,,Win8.1 64 bit,00261-50000-00000-HA32,-,,,
+กรุงเทพคริสเตียน,BCC/NB/39,ศักดิ์ชาย,Notebook,70:30,Acer,WB07386556,,,,,,,,,,-,,,
+สถาบันสุขภาพเด็ก,QIH/NB/41,อดิศักดิ์(โต้ง),Notebook,Office,Dell,1JBJZ22,Vostro 5470,Intel® Core™i5-4210U,4.0 GB,"1.70 GHz,2.40GHz",500 GB,80-19-34-A9-B6-21,80-19-34-A9-B6-1d,Win8.1 64 bit,GCRJD-8NW9H-F2CDX-CCMD8D-9D6T9,-,,1Y,2/9/58
+Office,ESS/NB/42,จงยิน,Notebook,Office,Dell,44QVLW1,Inspiron 3437,Intel® Core™ i5-4200U,4.0 GB,"1.60 GH, 2.3GHz",650 GB,,,Win 7 Ult 64bit,,-,,,
+Office,IT/NB/43,IT,Notebook,Office,Dell,90J6532,Inspiron 3442,Intel® Core™ i3-4005U,4.0 GB,1.70 GHz,500 GB,,,Win 7 Home 64bit,C93T6-Y3VGV-XTF2F-34K6Y-PTP98,-,19623240254,,
+รพ.วิภาวดี,VBH/NB/44,มาลิกา,Notebook,Office,Dell,,Ispiron 1440,Core 2 Dual,2 GB,2.1 GHz,500 GB,70-1A-04-8D-F4-10,00-25-64-78-47-B7,Win 7 32 bit,,-,,,
+Office,ESS/NB/45,วุฒิพงศ์(น้ำ),Notebook,70:30,Microsoft,F5N0WU046702208,Surface,Intel® Core™ i3-5010U,4 GB,2.1 GHz,1 TB,D0-53-49-C3-23-84,,Win 8.1 Pro,,-,,1 Y,17/08/2558
+ทรวงอก,CCI/NB/46,ภคพล (ป้อม),Notebook,Office,Dell,7STTL52,Inspiron 3458(W561075TH),Intel® Core™ i3-4005U,4 GB,1.7 GHz,500 GB,B4-6D-83-38-82-CC,,Win 8.1 SL,KKH7N-P3BC8-TMBWP-BHM4Y-MY33X,-,16950618566,2Y,29/09/2558
+Office,IT/NB/47,IT,Notebook,Office,Dell,152WK52,Inspiron ,Intel® Core™ i3-4005U,4 GB,1.7 GHz,500 GB,40-B8-9A-57-96-E9,,Win 10 SL upgrade,BT79Q-G7N6G-PGBYW-4YWX6-6F4BT,-,2539418870,2Y,9/17/58
+อิมพีเรียลลาดพร้าว,IPL/NB/48,ยศ,Notebook,70:30,Acer,NTG5CST0045427C7237200,Acer One,Intel® Atom Z3735F,2 GB,1.33 GHz,32(500) GB ,8C-18-D9-AC-B1-FD,,Win 10 Home SL ,3X9KN-K2D7P-YVMCD-K76WP-VFR73,-,-,1Y,11/19/58
+Office,BD/NB/49,พรพรรณ(ขวัญ),Notebook,Office,Dell,691LB62, Vostro 5480,Intel® Core™ i7-5500U,8 GB,2.40 GHz,1 TB,4C-34-88-A6-11-25,,Win 8.1 SL,C6QKR-RMNB6-C7RRT-DWKXJ-MTB99,-,13607563466,2Y,11/24/58
+Office,ESS/NB/50,ปราโมทย์(โมทย์),Notebook,Office,Dell,541LB62, Vostro 5480,Intel® Core™ i7-5500U,4 GB,2.40 GHz,1 TB,4C-34-88-C4-33-8F,,Win 8.1 SL,NRQ28-Q3DFJ-F8D26-JK9WF-R3JK9,-,11128450250,2Y,12/14/58
+Office,HR/NB/51,สราวุธ(พี่วุธ),Notebook,Office,Dell,HKVKY32, Inspiron 5548,Intel® Core™ i5-5200U,8 GB,2.20 GHz,1 TB,D8-5D-E2-40-EA-97,,Win 10 SL upgrade,66JNW-PKF73-DWGM4-WHQWH-94Q3X,-,38914320782,2Y,1/26/59
+Office,AC/NB/52,สุวิสา(พี่งาม),Notebook,70:30,Dell,JBQLB62, Vostro 5480,Intel® Core™ i7-5500U,8 GB,2.40 GHz,1 TB,D8-5D-E2-40-EA-96,,Win 10 SL upgrade,N3YT7-YDX28-9QJC9-FCRXK-T8Y99,-,42068656586,1Y,1/26/59
+Office,ESS/NB/53,ชุติเดช(พี่ชุ),Notebook,Office,Dell,3FM78B2, Inspiron 3459(W561077TH),Intel® Core™ i7-6500U,8 GB,2.50 GHz,1 TB,08-D4-0C-D9-6D-22,,Win 10 Home  SL,Y2H9W-CNXBW-4F2FW-7GXRX-Y7VYP,-,7474628558,3Y,3/16/59
+Display,DIS/NB/54,ธีระศาสตร์(เน),Notebook,70:30,HP,5CD5452FR5, Inspiron 3459(W561077TH),Intel® Core™ i7-6500U,8 GB,2.50 GHz,1 TB,B0-5A-DA-E1-30-3B,,Win 10 SL upgrade,QJNXR-YD97Q-K7WH4-RYWQ8-6MT6Y,-,N8L54PA#AKL,2Y,2/16/59
+Office,BD/NB/55,กิตติ(พี่กบ)  ,Notebook,Office,Dell,8B6F8B2, Inspiron 3459(W561077TH),Intel® Core™ i7-6500U,8 GB,2.50 GHz,1 TB, 08-D4-0C-E9-0F-AC,,Win 10 Home  SL,6VGXN-K7MHB-3PQRG-QF243-MDWV2,-,18090174926,3Y,4/4/59
+ธ.แห่งประเทศไทย,EEC/NB/56,ธิดารัตน์(แอน),Notebook,Office,Dell,96RMWB2, Inspiron 3459(W561077TH),Intel® Core™ i5-6200U,4 GB,2.30 GHz,500 GB, 04-D4-0C-E9-0F-KL,,Win 10 Home  SL,,-,20000256014,2Y,7/15/59
+Office,BSE/NB/57,เพ็ญจันทร์(ลีฟ),Notebook,Office,Dell,D5HTWB2,Inspiron 3458(W561075TH),Intel® Core™ i3-5005U,4 GB,2.0 GHz,500 GB, 04-D4-OP-C9-0F-IL,,Win 10 Home  SL,,-,28630449614,1Y,7/15/59
+ESS,ESS/NB/58,คีรินทร์(อา),Notebook,Office,Dell,BWN9GC2,Inspiron 5459xc(W561227TH),Intel® Core™ i5-6200U,4 GB,2.30 GHz,1 TB,A0:D3:7A:26:66:82,28:F1:0E:06:E4:79,Win 10 Pro,,-,25918595570,2Y,9/2/59
+Office,TN-NB-59,วุฒิไกร(วุฒิ),Notebook,Office,Dell,6ZBTWB2,Inspiron 3458(W561072TH),Intel® Core™ i3-5005U,4 GB,2.0 GHz,500 GB,A0:D3:7A:1C:4F:1C,A0:D3:7A:1C:4F:1D,Win 8.1 SL,PYNGY-6K6HF-MPVD2-XWBDB-RCYDX,-,15196880846,1Y,9/30/59
+Office,TN-NB-60,ธีรพงศ์(เบิร์ด),Notebook,Office,Dell,8RKWPC2,Inspiron N5567(W5662396TH),Intel® Core™ i7-72005U,8 GB,2.7 GHz,1 TB,84:EF:18:7E:CA:C0,18:DB:F2:15:95:34,Win 10 Home,00342-41331-76950-AAOEM,-,,2 Y,11/25/59
+Office,WTF-NB-61,วีระยุทธ(สติ๊ฟ),Notebook,Office,Dell,2H0G3C2,Inspiron 3458(W5663103TH),Intel® Core™ i3-5005U,4 GB,2.0 GHz,500 GB,E4:02:9B:BE:12:49,98:40:BB:08:23:60,Win 10 Home  SL,22KQW-33NK3-6RBVW-WQVF7-DRR72,-,5382240482,1 Y,11/29/59
+Office,QS-NB-62,สรภพ,Notebook,Office,Dell,JFN0PC2,Inspiron 3458(W56652390TH),Intel® Core™ i3-61005U,4 GB,2.3 GHz,1 TB,E4:02:9B:BE:12:50,,,,,,,
+Mini Plant,MNP/NB/63,สุรัตน์(ปิ้ก),Notebook,70:30,Dell,87HYGFT,Inspiron N5567(W5662396TH),Intel® Core™i5-6500U,4 GB,2.5 Ghz,1 TB,E4:02:9B:BE:12:51,,,,,,,
+Office,EEC-NB-64,EEC,Notebook,Office,Dell,4POU7HL,Inspiron 5459xc(W561227TH),Intel® Core™ i7-6500U,8 GB,2.7 Ghz,1 TB,E4:02:9B:BE:12:52,,,,,,,
+Office,OXY-NB-65,ณัฐรดา(แก้ม),Notebook,Office,Dell,5KJIYGY,Inspiron 3437,Intel® Core™ i3-61005U,4 GB,2.3 GHz,500 GB,E4:02:9B:BE:12:53,,,,,,,
+Office,EEC-NB-66,อรุณ(พี่โจ),Notebook,Office,Dell,39JCPC2,Inspiron N5567(W5665235TH),Intel® Core™ i5-72005U,8 GB,2.5 GHz,1 TB,68:07:15:E1:DF:AC,18:DB:F2:0F:C1:81,Win 10 Home,C9CQ7-NBYG8-VJCDH-3YVHJ-82QFC,-,7107048002,2 Y,16/01/2560
+Office,EEC-NB-67,อ.เต๊ก,Notebook,Office,Dell,1CBCPC2,Inspiron N5567(W5665235TH),Intel® Core™ i5-72005U,8 GB,2.5 GHz,1 TB,68:07:15:E1:DF:F7,18:DB:F2:0F:BF:4A,Win 10 Home,7XK8N-7P2PC-6H77B-8VWV6-3V64C,-,2921444930,2Y,16/01/2560
+Office,VTK-NB-68,เชาวลิต(พี่สุ่น),Notebook,Office,Dell,1T81BG2,Inspiron N5567(W5665235TH),Intel® Core™ i5-72005U,8 GB,2.5 GHz,1 TB,58:FB:84:27:0E:34,18:DB:F2:22:22:98,Win 10 Home,NB3MN-R3D24-Y4DG9-Y6C2V-X764C,-,3943799858,2Y,31/01/2560
+Office,BSE-NB-69,ธนาธิษศ์,Notebook,Office,Dell,JN2X1G2,Vostro V5468(W5681020TH),Intel® Core™ i5-72005U,4 GB,2.5 GHz,1TB,3C:F8:62:E5:18:A7,D4:81:D7:B3:E9:9F,Win 10Home,,-,42754487186,3y,7/6/60
+Office,TN-NB-70,ชิดชนก,Notebook,Office,Dell,4B6WRF2,Inspiron N5468(56652275TH),Intel® Core™ i7-75005U,4 GB,2.7 GHz,1 TB,28:56:5A:5E:6E:F9,D4:81:D7:61:8D:36,Win 10 Home SL ,V8QF2-NJKXX-Y7CTX-XW4FQ-KKXRC,-,,2Y,25/03/2560
+office,THU-NB-71,หอสมุดกรุงเทพ,Notebook,Office,Dell,HBM8ZD2,InspironN3467(W564104TH),Intel® Core™ i5-72005U,4 GB,2.5 GHz,500 GB,90:CD:B6:81:51:ED,98:40:BB:1C:0D:CD,Win 10 Home SL ,MYTY6-NK32D-6W2HV-6R9HM-BBHYP,-,37707798278,1Y,25/03/2560
+Office,BSE-NB-72,หอป๋วย,Notebook,Office,Dell,DMB8ZD2,InspironN3467(W564104TH),Intel® Core™ i5-72005U,4 GB,2.5 GHz,500 GB,90:CD:B6:4D:EC:81,98:40:BB:1C:0B:BF,Win 10 Home SL ,PTDCB-ND7KM-V6B4D-4XH2Y-88F72,-,2900066893,1Y,25/03/2560
+Office,BD-NB-73,จิตรา,Notebook,Office,Dell,DBYJRF2,Vostro V5568(5685023TH),Intel® Core™ i7-75005U,8 GB,2.7 GHz,1TB,70:1C:E7:22:4F:11,D4:81:D7:5B:D6:80,Win 10 Home SL ,NDQRK-9MWB9-36K2D-DQMWH-CYVCM,-,29021327246,3Y,27/04/2560
+Office,ESS-NB-74,วัชระ,Notebook,Office,Dell,5T3ZNC2,InspironN5567(W56652396TH),Intel® Core™ i7-75005U,8 GB,2.7 GHz,1TB,68:07:15:DF:EC:6F,18:DB:F2:0F:CA:75,Win 10 Home SL ,YRBRQ-KRNHG-TFDQB-CGYWY,-,12644132824,2Y,27/04/2560
+SQ1,SQ1-NB-75,อารักษ์,Notebook,Office,Dell,GF74ZD2,Ispiron 15 3000Series,Intel® Core™ i5-72000U,4 GB,2.5 GHz,1TB,,,Win 10 Home SL ,00327-30458-23078-AAOEM,-,35747499782,2Y,4/28/60
+DIC,DIC-NB-76,ธวัชชัย,Notebook,Office,Dell,7J74ZD2,Inspiron N3567(W5651131TH),Intel® Core™ i5-72000U,4 GB,2.5 GHz,1TB,90:CD:B6:81:61:43,98:40:BB:1B:8E:E3,Win 10 Home SL ,NR4R3-3XPXB-QHBJC-QRV42-BTDFC,-,16398323462,2Y,12/5/60
+QIH,QIH-NB-77,ภูสิทธิ์,Notebook,Office,Dell,CK74ZD2,Inspiron N3567(W5651131TH),Intel® Core™ i5-72000U,4 GB,2.5 GHz,1TB,90:CD:B6:81:77:29,98:40:BB:1B:8B:62,Win 10 Home SL ,ND6FY-P3RG9-4YKPH-X8RTJ-CPQFC,-,27342701318,2Y,12/5/60
+KMT(บางขุนเทียน),KMT-NB-78,ธนากร,Notebook,Office,Dell,4074ZD2,Inspiron N3567(W5651131TH),Intel® Core™ i5-72000U,4 GB,2.5 GHz,1TB,90:CD:B6:81:41:C9,98:40:BB:1B:8F:BA,Win 10 Home SL,PWNCT-R34M7-3X397-MK7P3-T6PH2,-,8719119110,2Y,12/5/60
+Office,ESS-NB-79,อำพล(ท๊อป),Notebook,Office,Dell,JT5V1G2,Inspiron5567(W56612362TH),Intel® Core™ i5-72000U,8 GB,2.5 GHz,1TB,3C:F8:62:D5:33:E7,D4:81:D7:96:B2:6F,Win 10 Pro,M4BTN-YGRVV-HD6GW-YHW6B-FGDGY,-,43122229778,2Y,7/6/60
+Office,ESS-NB-80,แจ็ค,Notebook,Office,Dell,DQWS1G2,Inspiron5567(W56612362TH),Intel® Core™ i5-72000U,8 GB,2.5 GHz,1TB,3C:F8:62:C7:8F:85, D4:81:D7:A8:24:09,Win 10 Pro,M4BTN-YGRVV-HD6GW-YHW6B-FGDGY,-,,2Y,7/6/60
+Office,KX-NB-81,ศิราวุธ,Notebook,Office,Dell,BDFY9G2,Inspiron N5567(W56652396TH),Intel® Core™ i7-75005U,8 GB,2.7 GHz,1 TB,,,Win 10 Home  SL,,-,-,3Y,7/6/60
+office,BSE-NB-82,ปุณยนุช,Notebook,Office,Microsoft,041150353052,Surface 3 1645,Intel® Atom(TM)x7-Z8700,2 GB,1.60 GHz,60GB ,B4:AE:2B:2B:8F:EB,B6:AE:2B:2B:8E:EA,Windows 10 Home,F8QJX-N7J2W-6PVMC-VBCTK-XKX2J,-,-,2Y,-
+Office,HR-NB-83,อัจฉรา,Notebook,Office,Dell,6RGMZF2,Vostro V5568(56851023TH),Intel® Core™ i7-75005U,8 GB,2.7 GHz,1 TB,70:1C:E7:E6:55:78,D4:81:D7:A4:DC:7D,Win 10 Home  SL,NVYWY-M64WH-YTMF3-48PRF-6Q78Y,-,14721226958,3Y,20/062560
+Office,BSE-NB-84,ศักดิ์ชาย,Notebook,Office,Dell,50BXZF2,Inspiron5468(W56412281TH),Intel® Core™ i7-7500U,8 GB,2.7 GHz,1 TB,A8:6B:AD:11:B9:E6,D4:81:D7:A0:73:8F,Win 10 Pro,QF826-9NYC2-M8BX9-3GYRJ-W44DB,-,10903973006,2Y,20/06/2560
+office,EEC-NB-85,DSM ภูเก็ต,notebook,office,dell,9FPJZF2,Inspiron5468(W56412281TH),Intel® Core™ i7-7500U,8 GB,2.7 GHz,1 TB,A8:6B:AD:11:A3:5B,D4:81:D7:9E:56:E0,Win 10 Pro,QF826-9NYC2-M8BX9-3GYRJ-W44DB,-,20540956430,2Y,20/06/2560
+office,SQ1-NB-86,โกสินทร์,Notebook,Office,Dell,6FK24H2,Inspiron5468(W56412281TH),Intel® Core™ i7-7500U,8 GB,2.7 GHz,1 TB,42:BB:2F:C0:15:02,D4:81:D7:C8:C1:7C,Win 10 Pro,QF826-9NYC2-M8BX9-3GYRJ-W44DB,-,14001378086,2Y,11/7/60
+Office,BSE-NB-87,ธนาธิษณ์,Notebook,Office,Dell,770KRF2,Vostro V5468(W5681020TH),Intel® Core™ i7-7500U,8 GB,2.7 GH,1 TB,70:1C:E7:62:5E:D0,18:DB:F2:59:D0:E6,Win 10 Pro,HPJNX-2Y4MK-DPH27-6XFW7-X764C,-,15661708238,2Y,16/07/02560
+Office,EIS-NB-88,นพรัตน์,Notebook,Office,Dell,CCSVLJ2,Latitude3480(SNS3480006),Intel® Core™ i5-72000U,8 GB,2.7 GH,1 TB,54:13:79:5C:61:43,10:7D:1A:13:2C:1E,Win 10 Pro,NQ3JY-W97RP-8RJXQ-43RQH-G6PKM,-,26895485630,3Y,1/8/60
+Office,EIS-NB-89,ระวิน,Notebook,Office,Dell,CVQVLJ2,Latitude3480(SNS3480006),Intel® Core™ i5-72000U,8 GB,2.7 GH,1 TB,54:13:79:5C:5E:33,10:7D:1A:13:30:AC,Win 10 Pro,NQ3JY-W97RP-8RJXQ-43RQH-G6PKM,-,28040983742,3Y,1/8/60
+Office,EIS-NB-90,นัฐพล,Notebook,Office,Dell,77RVLJ2,Latitude3480(SNS3480006),Intel® Core™ i5-7200U,8 GB,2.7 GH,1 TB,54:13:79:5C:5E:B3,10:7D:1A:13:2C:40,Win 10 Pro,NQ3JY-W97RP-8RJXQ-43RQH-G6PKM,-,15707563454,3Y,1/8/60
+Office,Kiattirong-BSE,เกียรติรงค์,Notebook,Toyota BUZZ,Dell,5VQVLJ2,Latitude3480(SNS3480006),Intel® Core™ i5-7200U,8 GB,2.7 GH,1 TB,54:13:79:5C:68:7D,10:7D:1A:13:2E:C8,Win 10 Pro,NQ3JY-W97RP-8RJXQ-43RQH-G6PKM,-,12803507390,3Y,1/8/60
+Office,EEC-NB-92,ชมชนก,Notebook,Office,Dell,9BLQKJ2,Vostro14 3468(SNS3468004),Intel® Core™ i5-7200U,8 GB,2.5 GHz,1 TB,44:03:2C:18:DB:B6,10:7D:1A:27:AB:27,Win 10 Pro,NQ3JY-W97RP-8RJXQ-43RQH-G6PKM,-,20292680558,3Y,3/8/60
+Office,EEC-NB-93,สถาพร,Notebook,Office,Dell,32CPKJ2,Vostro14 3468(SNS3468004),Intel® Core™ i5-7200U,8 GB,2.5 GHz,1 TB,34:F6:4B:47:39:16,10:7D:1A:27:B0:9F,Win 10 Pro,NQ3JY-W97RP-8RJXQ-43RQH-G6PKM,-,6672627758,3Y,3/8/60
+Office,QS-NB-94,ณัฐชานนท์,Notebook,Office,Dell,H1CPKJ2,Vostro14 3468(SNS3468004),Intel® Core™ i5-7200U,8 GB,2.5 GHz,1 TB,,,Win 10 Pro,NQ3JY-W97RP-8RJXQ-43RQH-G6PKM,-,37087114286,3Y,3/8/60
+Office,OXY-NB-95,ณัฐลดา,Notebook,Office,Dell,42CPKJ2,Vostro14 3468(SNS3468004),Intel® Core™ i5-7200U,8 GB,2.5 GHz,1 TB,34:F6:4B:47:39:2F,"10:7D:1A:27""B0:A4",Win 10 Pro,NQ3JY-W97RP-8RJXQ-43RQH-G6PKM,-,8849410094,3Y,3/8/60
+Office,innoNB18082017-001-3Y,วีระวุธ,Notebook,Office,Dell,5XFJKJ2,Latitude3480(SNS3480006),Intel® Core™ i5-7200U,8 GB,2.5 GHz,1 TB,54:13:79:8B:50:65,10:7D:14:25:44:8B,Win 10 Pro,,-,12905402798,3Y,18/08/2560
+Office,EEC-NB-97,ฐาปกรณ์,Notebook,Office,Dell,294WKJ2,Vostro14 3468(SNS3468005),Intel® Core™ i5-7200U,8 GB,2.5 GHz,1 TB,34:F6:4B:4A:E5:6C,10:7D:1A:2B:6E:BE,Win 10 Pro Volume,GNHWJ-KWTVK-DXBHP-KWPRK-FRG6P,-,4905998318,3Y,8/9/60
+Office,BD-NB-98,ปราโมทย์ ( ณิชากร วีระกุล โอนย้าย  ธีรพงศ์ ),Notebook,Office,Dell,BCZH5H2,Vostro5568(W56851023TH),Intel® Core™ i5-7200U,8GB,2.7 GHz,1 TB,7C:67:A2:C2:4C:F5,D4:81:D7:EF:95:F3,Win 10 Home build in,,-,24729788614,3Y,19/9/2560
+Office,EEC-NB-99,อิทธิพล,Notebook,IPL,Dell,37LZKJ2,Vostro14 3468(SNS3468005),Intel® Core™ i5-7200U,8 GB,2.5 GHz,1 TB,,,Win 10 Pro OEM,,-,6990541742,3Y,28/09/2560
+Office,EEC-NB-100,ชัยยุทธ,Notebook,EEC(EIS),Dell,7H5QNJ2,Latitude3480(SNS3480004),Intel® Core™ i5-7200U,8 GB,2.5 GHz,1 TB,E8:9E:B4:07:52:1B,10:7D:1A:37:73:27,Windows 10 Pro Volume,,-,16275042974,3Y,28/09/2560
+Office,BSE-NB-101,ประสิทธิ์,Notebook,ม.เกษตร,Dell,GHR9QJ2,Latitude 3480_CTO,Intel® Core™ i5-7200U,8 GB,2.5 GHz,1 TB,D4:6A:6A:39:80:0B,10:7D:1A:A3:C7:50,Win 10 Pro OEM,,-,,3Y,10/6/60
+Office,BSE-NB-102,วรัญญู,Notebook,ทิพยะประกันภัย,Dell,9JR9QJ2,Latitude 3480_CTO,Intel® Core™ i5-7200U,8 GB,2.5 GHz,1 TB,D4:6A:6A:39:92:79,10:7D:1A:43:C7:3C,Win 10 Pro OEM,,-,,3Y+bat,10/6/60
+Office,BSE-NB-103,นวิชสรณ์,Notebook,กรุงเทพคริสเตียน,Dell,FGR9QJ2,Latitude 3480_CTO,Intel® Core™ i5-7200U,8 GB,2.5 Ghz,1 TB,,,,,-,,3Y+bat,10/19/60
+Office,BSE-NB-104,สราวุฒิ ผ่องใส,Notebook,รพ.เด็ก,DEll,GF4TQJ2,Latitude 3480_CTO,Intel® Core™ i5-7200U,8 GB,2.5 Ghz,1 TB,,,,,,,3Y+bat,11/9/60
+office,BD-NB105,รุ่งโรจน์,Notebook,ผจก.BD,Dell,9RRXRJ2,Latitude 3480_CTO,Intel® Core™ i5-7200U,8 GB,2.5 Ghz,1 TB,,,,,,,3Y+bat,11/24/60
+Office,IT-NB-106,IT,Notebook,Office,Dell,9NRXRJ2,Latitude 3480_CTO,Intel® Core™ i5-7200U,8 GB,2.5 GHz,1 TB,,,Win 10 Pro OEM,00330-50527-81462-AAOEM,,,3Y+bat,11/1/60
+Office,PATIDA-NB-107,จัดซื้อ,Notebook,70-30,Dell,,,Intel® Core™ i5-7200U,8 GB,2.5 GHz,1 TB,60-F6-77-17-3A-72,58-8A-5A-13-43-CF,Win 10 Pro OEM,RBC4Q-X4NG7-KBY38-4WYBM-VQWXF,,,3Y+bat,1/8/61
+Office,BSE-NB-108,BSE,Notebook,Office,Dell,,,Intel® Core™ i5-7200U,8 GB,2.5 GHz,1 TB,D4-25-8B-FE-9F-02,58-8A-5A-1A-D6-1F,Win 10 Pro OEM,RBC4Q-X4NG7-KBY38-4WYBM-VQWXF,,,3Y+bat,1/17/61
+BD (inno-phuket),InnoNB17052019-001-2Y,รุ่งโรจน์ เริ่มดำริห์,Notebook,BD (inno-Phuket),Lenovo,,,Intel® Core™ i3-7100U,4GB,2.4GHz,1TB,64-6e-69-cb-6c-3d,66-6e-69-cb-6c-3d,win 10 Home OEM,,,MP1BQWST,2 Year,2018-02-16
+Office,DESKTOP-M7ONCBO,พี่เล็ก ,Notebook,Office,Lenovo,,,Intel® Core™ i5-8250U,8 GB,1.8GHz,250GB,60-f6-77-3d-aa-09,60-f6-77-3d-aa-0a,win 10 Home OEM,,,MP1CKV3D,3Y+bat,2/23/61
+กกท 25ชั้น,16032018-002 3YB,Pukrit.n,Notebook,กกท 25ชั้น,Dell,,,Intel® Core™ i5-7200U,8 GB,2.5 Ghz,1 TB,,,Win 10 Pro OEM,,,8RCK8L2,3Y+bat,3/16/61
+การกีฬาแห่งประเทศไทย,16032018-001 3YB,Sirwit.p,Notebook,การกีฬาแห่งประเทศไทย,Dell,,,Intel® Core™ i5-7200U,8 GB,2.5 Ghz,1 TB,,,Win 10 Pro OEM,,,3SCK8L2,3Y+bat,3/16/61
+Office,innoNB19032018-001-3YB,jakkitt.k,Notebook,EIS,Dell,Intel® Core™ i5-7200U,,Intel® Core™ i5-7200U,8 GB,2.5 Ghz,1 TB,,,Win 10 Pro OEM,,,3SCK8L2,3Y+bat,3/19/61
+อิมพีเรียล (สำโรง),innoNB19052018-001-3YB,นายอนุพงศ์  โพธาราม,Notebook,EEC,Dell,,,Intel® Core™ i5-8250U,8 GB,2.5 Ghz,1 TB,FC-01-7C-5B-0C-8F,54-BF-64-06-C6-13,Win 10 Pro OEM,,,2FV2LP2,3Y+bat,5/17/61
+Office,innoNB19052018-002-3YB,ภัทรภรณ์ ศรีกรด,Notebook,BSE,Dell,,,Intel® Core™ i5-8250U,8 GB,2.5 Ghz,1 TB,FC-01-7C-5B-13-23,54-BF-64-06-C8-B0,Win 10 Pro OEM,,,4GV2LP2,3Y+bat,5/17/61
+Toyota Buzz,innoNB16072018-001-3YB,เกียรติรงค์,Notebook,,Dell latitude 3490,,,Intel® Core™ i5-8250U,8 GB,1.8 Ghz,1 TB,,,Win 10 Pro OEM,,,7G7MCQ2,3Y+bat,7/16/18
+ท่าอากาศยานภูเก็ต,innoNB19072018-001-3YB,ธรรมนูญ สุขหวาน,Notebook,BD,Dell latitude 3490,,,Intel® Core™ i5-8250U,8 GB,1.8 Ghz,1 TB,,,Win 10 Pro OEM,,,5P4SCQ2,3Y-Bat,7/18/18
+office,Bunyisa.,บุญญิสา,Notebook,EIS,DELL Inspiron 3437,,,Intel® Core™ i5-4200U,4 GB,1.6 GHz,750 GB,,,,,,H3VCLW1,,
+Office,innoNB07092018-001-3YB,นิวัตร ไชยสวัสดิ์,Notebook,BSE,Latitude 3490,,,Intel® Core™ i5-8250U,8 GB,1.8 Ghz,1 TB,,,Win 10 Pro OEM,,,FKKDKR2,3Y-Bat,9/5/18
+ททบ 5,innoNB01102018-001-3YB,นายไพรัช  ศรีโปฎก,Notebook,BSE,Latitude 3490,,,Intel® Core™ i5-8250U,8 GB,1.8 Ghz,1 TB,,,Win 10 Pro OEM,,,DWZ6LR2,3Y-Bat,9/17/18
+HOME,innoNB09112018-001-3YB,ดร.ณัฐสุทธิ์  แมนธนานนท์,Notebook,Management,Latitude 3490,,,Intel® Core™ i5-8250U,8 GB,1.8 Ghz,1 TB,,,Win 10 Pro OEM,,,FMCCDQ2,3Y-Bat,11/9/18
+BSE,innoNB22112018-001-3YB,สิปปนนท์ อินคาคร,notebook,BSE,Inspiron 5570,,,Intel® Core™ i5-8250U,8 GB,1.8 Ghz,256 GB,,,Win 10 Pro OEM,,,9GWZXR2,3Y-Bat,11/21/18
+EEC,innoNB24012019-001-3Y,วศิน เรืองกำเนิด,Notebook,EEC,Inspiron 3576,,,Intel® Core™ i7-8550U,8 GB,1.8 Ghz,256 GB,,,win 10 Home OEM,,,D9153P2,3Y,1/24/19
+EEC,innoNB13022019-001-3Y,พัทราวุธ เฉิดโฉม,Notebook,EEC,Inspiron 3576,,,Intel® Core™ i7-8550U,8 GB,1.8 Ghz,256 GB,,,win 10 Home OEM,,,58153P2,3Y,2/13/19
+ESS,innoNB21022019-001-3YB,ดิษพงษ์  ล้อมสินทรัพย์,Notebook,ESS,Latitude 3490,,,Intel® Core™ i5-8250U,8 GB,1.8 Ghz,128+500 GB,,,Windows 10 Pro OEM,,,2YBR7T2,3Y+bat,2/21/19
+HR,innoNB21022019-001-3YB,ปรารถนา ศิริษา,Notebook,Office,Latitude 3490,,,Intel® Core™ i5-8250U,8 GB,1.8 Ghz,128+500 GB,,,Windows 10 Pro OEM,,,7VBR7T2,3Y+bat,2/21/19
+กกท,innoNB21032019-001-3YB,ศรายุทธ  ยุทธศักดิ์,Notebook,BSE,Latitude 3490,,,Intel® Core™ i5-8250U,8 GB,1.8 Ghz,128+500 GB,,,Windows 10 Pro OEM,,,9WM9BV2,3Y+BAT,3/19/19
+ESS,innoNB28032019-001-3YB,ธีระชัย บุญโสภาส,Notebook,ESS,Latitude 3490,,,Intel® Core™ i5-8250U,8 GB,1.8 Ghz,128+500 GB,,,Windows 10 Pro OEM,,,3G2GBV2,3Y+bat,3/26/19
+Thai PBS,innoNB05042019-001-3YB,บันลือ ลังทิพย์,Notebook,BSE,Latitude 3490,,,Intel® Core™ i5-8250U,8 GB,1.8 Ghz,128+500 GB,,,Windows 10 Pro OEM,,,1TKB1W2,3Y-bat,4/2/19
+Thai PBS,innoNB05042019-002-3YB,ประเซนต์ สุหญ้านาง,Notebook,BSE,Latitude 3490,,,Intel® Core™ i5-8250U,8 GB,1.8 Ghz,128+500 GB,,,Windows 10 Pro OEM,,,3QKB1W2,3Y-bat,4/2/19
+OFFICE,EEC/PC/01,เมธารินี(ก้อย),PC,Office,PLENTY,-,Intel Celeron G530,2.0 GB,2.4 GHz,500 GB,-,74-D0-2B-92-F3-89,Win 7 32 bit,,LG  E1942TA,,,,
+OFFICE,EEC/PC/02,ไพเราะ(พี่ไพ),PC,Office,PLENTY,-,Intel® Core™i3-2100,2.0 GB,3.1 GHz,500 GB,-,00-25-22-C1-0C-2A,Win 7 32bit,88WQ8-F8RKD-WY4MP-3GTHX-6G3Y9,LG  E1942TA,203INAR6S136,,,
+OFFICE,HR/PC/03,ไพเราะ(พี่ไพ),PC,Office,Acer ET1831,,Intel Pentium Dual Core E6500,2.0 GB,2.93 GHz,640 GB,-,00-25-11-8E-A1-6B,Win 7 32bit,,Samsung  S23B370,MQHBHYCC400383P,,,
+OFFICE,AC/PC/04,ปิยะนุช(บิว),PC,Office,HP pavililon 500,,Intel® Core™i3-3240,4.0 GB,2.5 GHz,1TB,-,40-6C-8F-05-5C-E6,Win 7 32bit,,Acer X193,,,,
+OFFICE,AC/PC/05,จุไรรัตน์(แหม่ม),PC,Office,Acer ET1831,,Intel Pentium Dual Core E6500,2.0 GB,2.93 GHz,640 GB,-,00-25-11-8F-3E-78,Win 7 32bit,,HP W1907v,,,,
+OFFICE,AC/PC/06,จิตราพร(ส้ม),PC,Office,Dell Vostro 3900,GSMCF22,Intel® Core™i5-4460,8.0GB,"3.2 GHz , 3.5 GHz",1TB,-,F8-BC-12-81-3D-9F,Win7 Pro 64 bit,88WQ8-F8RKD-WY4MP-3GTHX-6G3Y9,Acer X193HQ,,36559101242,,9/20/57
+OFFICE,AC/PC/07,สุวิสา(พี่งาม),PC,Office,Dell Inspiron 3847,,Intel® Core™i3-4130,4.0 GB,3.40 GHz,500 GB,,F8-BC-12-77-D5-C4,Win7 Pro 64 bit,764MG-2TCQY-8MCB7-XXF39-43K4Q,Dell E2014H,,,,
+OFFICE,PC/PC/08,สุพัชรี(อุ๊),PC,Office,PLENTY,-,AMD Athlom 64x2 Dual Core 5200,2.0 GB,-,160 GB,-,00-1F-D0-B2-4F-4C,Win 7 32bit,,,,,,
+OFFICE,AD/PC/09,ปิยะพร(อา),PC,Office,Dell Inspiron 3847,3CMV622,Intel® Core™i3-4150,4.0 GB,"3.2 GHz , 3.5 GHz",500 GB,B0-10-41-81-53-B9,F8-BC-12-A2-35-D1,Win8.1 64 bit,,Dell E2014H,CN-022R0T-72872-456-CNKMREVA00,7294346858,,
+OFFICE,AD/PC/10,ศุภัสสร(ฝ้าย),PC,Office,PLENTY,-,AMD Athlom 64x2 Dual Core 5200,2.0 GB,-,160 GB,-,00-22-15-D2-4F-83,,,HP W1707,,,,
+OFFICE,PC/PC/11,มนัสนันท์(คุกกี้),PC,Office,PLENTY,-,Intel® Core™i3-2100,1.72 GB,3.10 GHz,500 GB,-,00-25-22-C0-BB-BE,Win 7 32bit,,Dell E2014H,P11TPJP0X620,,,
+OFFICE,AD/PC/12,ปทิดา(เน็ท),PC,Office,Dell Inspiron 3847,,Intel® Core™i3-4130,4.00 GB,3.40 GHz,1 TB,49-5A-B6-69-5C-25,C8-1F-66-3D-78-5F,Win 7 64bit,,Dell E2014H,256102782850,130466-11,,
+OFFICE,QS/PC/13,จารุวรรณ(ทราย),PC,Office,Dell Inspiron 3847,DDT9HZ1,Intel® Core™i3-4130,4.0 GB,3.40 GHz,500 GB,,C8-1F-66-3B-96-F0,Win8 64bit,,Dell E2014H,CN-022ROT-72872-39R-C7RM-REVAOO,29133382717,1 Y,
+OFFICE,IT/PC/14,กมลวรรณ(วรรณ),PC,Office,Dell Inspiron 3847,7BT9HZ1,Intel® Core™i3-4130,4.0 GB,3.40 GHz,1 TB,,C8-1F-66-3B-38-F3,Win 7 64bit,,Dell E2014H,CN-022ROT-72872-3BD-CMMM-REVAOO,15951756349,1 Y,
+OFFICE,DMD/PC/15,ปิยะนุช(บิว),PC,Office,Dell inspiron 3847,30VSQ02,Intel® Core™i3-4130,4.0 GB,3.40 GHz,500 GB,,F8-BC-12-87-9A-AA,Win 7 64bit,,Dell E2014HC,,6583755170,1 Y,7/4/57
+กกท25ชั้น,SAT2/PC/16,ภูกริช(ยอด),PC,Office,,,,,,,,,,,,,,,
+กกท25ชั้น,SAT2/PC/17,ภูกริช(ยอด),PC,Office,,,,,,,,,,,,,,,
+Mini Plant,MNP/PC/18, สุรัตน์(ปิ๊ก),PC,Office,PLENTY,-,Intel Pentium R Dual Core E5500,2.0 GB,2.80 GHz,500 GB,,5C:D9:98:F6:BF:9E,Win 7 32 bit,,,,,,
+Mini Plant,MNP/PC/19, สุรัตน์(ปิ๊ก),PC,Office,PLENTY,-,Intel Pentium R Dual Core E5500,2.0 GB,2.80 GHz,500 GB,,,,,,,,,
+รพ.วิภา,VBH/PC/20,สุเทพ(เทพ),PC,Office,PLENTY,-,Intel Pentium R Dual Core E5500,2.0 GB,2.80 GHz,500 GB,,,,,,,,,
+รพ.วิภา,VBH/PC/21,วรรณศักดิ์(เต้),PC,Office,PLENTY,-,Intel Pentium R Dual Core E5500,2.0 GB,2.80 GHz,500 GB,,,,,,,,,
+กกท,SAT/PC/22,สิรวิชญ์(แซน),PC,Office,Dell,,,,,,,,,,,,,,
+หัวเฉียว,HCU/PC/24,ยศ,PC,Office,Dell,,,,,,,,,,,,,,
+อิมฯ ลาด,IPL/PC/25,อิทธิพล(อิท),PC,Office,PLENTY,,,,,,,,,,,,,,
+คลอง5,KCB/PC/26,เดชาณัฐ(ปราณ์),PC,Office,HP,,,,,,,,,,,,,,
+คลอง5,KCB/PC/27,เดชาณัฐ(ปราณ์),PC,Office,Acer ,,,,,,,,,,,,,,
+ม.ธรรม,THU/PC/28,อุเทน(เอ๋),PC,Office,,,,,,,,,,,,,,,
+ม.ธรรม,THU/PC/29,อุเทน(เอ๋),PC,Office,,,,,,,,,,,,,,,
+สัตวแพทย์,VET/PC/30,โกสิน(บี),PC,Office,,,,,,,,,,,,,,,
+มจธ,KMT/PC/31,ธนาธิษณ์(ป๋อง),PC,Office,,,,,,,,,,,,,,,
+มจธ,KMT/PC/32,ธนาธิษณ์(ป๋อง),PC,Office,,,,,,,,,,,,,,,
+ธนชาติ บางปู,TNC5/PC/33,กิตติศักดิ์,PC,Office,Dell Vostor 3900,82QKW21,Intel® Core™i3-4149,4.00GB,"3.50 GHz   ,3.50GHz",500 GB,,,Win8.1 64 bit,,Dell E2014H,CN-022ROT-72872-48M-E35MREVA01,17579835721,3Y,11/18/57
+ธนชาติ พระราม7,TNC1/PC/34,อรุณ(โจ),PC,Office,Dell Vostor 3900,82QKW22,Intel® Core™i3-4150,4.00GB,"3.50 GHz   ,3.50GHz",500 GB,,,Win8.1 64 bit,,Dell E2014H,CN-022ROT-72872-48M-E35MREVA00,17579835722,3Y,11/18/57
+ธนชาติ วงศ์สว่าง,TNC2/PC/35,สยาม(โจ),PC,Office,Dell Vostor 3900,HMPKW22,Intel® Core™i3-4150,4.00GB,"3.50 GHz   ,3.50GHz",500 GB,,,Win8.1 64 bit,,Dell E2014H,CN-022ROT-72872-48M-CETMREVA00,38378520650,3Y,11/18/57
+ธนชาติ สวนมะลิ,TNC3/PC/36,โกมล(โกมล),PC,Office,Dell Vostor 3900,CMPKW22,Intel® Core™i3-4150,4.00GB,"3.50 GHz   ,3.50GHz",500 GB,,,Win8.1 64 bit,HR6NC-DFVVJ-4H2HF-6F8C7-9BRW202593084734321 X1904617,Dell E2014H,CN-022ROT-72872-48M-AF7MREVA00,27494608970,3Y,11/18/57
+ธนชาติ รัชดา,TNC4/PC/37,ประสิทธิ์(สิทธิ์),PC,Office,Dell Vostor 3900,H4SKW22,Intel® Core™i3-4150,4.00GB,"3.50 GHz   ,3.50GHz",500 GB,,,Win8.1 64 bit,,Dell E2014H,CN-022ROT-72872-48M-CFAMREVA00,37295168330,3Y,11/18/57
+ธนชาติ MBK,TNC6/PC/38,วิฑูรย์,PC,Office,Dell Vostor 3900,D5SKW22,Intel® Core™i3-4150,4.00GB,"3.50 GHz   ,3.50GHz",500 GB,,,Win8.1 64 bit,2BB79-PN42W-MCXVR-MFQBV-VT8J20259308473423 X1904617,Dell E2014H,CN-022ROT-72872-48M-CEYMREVA00,28648505162,3Y,11/18/57
+ธนชาติ พระราม7(ลานจอดรถ),TNC1/PC/39,อรุณ(โจ),PC,Office,Dell Vostor 3900,GKPKW22,Intel® Core™i3-4150,4.00GB,"3.50 GHz   ,3.50GHz",500 GB,,,Win8.1 64 bit,,Dell E2014H,CN-022ROT-72872-48M-CERMREVA00,36080805962,3Y,11/18/57
+OFFICE,HR/PC/40,ศิริวรรณ (นก),PC,Office,Dell Vostor 3900,46QKW22,Intel® Core™i3-4140,4.00GB,"3.50 GHz   ,3.50GHz",500 GB,,F8-BC-12-81-D8-27,Win7 pro64 bit,,Dell E2014,CN-022ROT-72872-48M-E2JM,9114571082,3Y,11/18/57
+ศาลายา,SLY/PC/41,นคร,PC,Office,Dell Vostro 3650,J2BP7C2,Intel® Core™i3-6100,4.00GB,3.70 GHz  ,500 GB,94:53:30:AB:86:B9,48:4D:7E:99:F9:12,Win 8.1 Pro,,,,,3Y,10/26/59
+วิทยกิตต์,VTK/PC/42,ชวลิต(สุ่น),PC,Office,Dell Inspiron 3847,,Intel® Core™i3-4170,4.00GB,"3.70 GHz   ,3.70GHz",500 GB,,,,,,,,3Y,
+SQ1,SQ1/PC/43,ดิษพงษ์,PC,Office,Dell inspiron 3847,7VNQG52,Intel® Core™i3-4170,4.00GB,"3.70 GHz   ,3.70GHz",500 GB,,,Win7 Pro,,Dell E1914H,CN0X0T4K72872535C5FU,17151792950,1Y,29/09/2558
+OFFICE,BD/PC/44,ณัฏฐณิชา(โฟม),PC,Office,Dell inspiron 3847,4WNQG52,Intel® Core™i3-4170,4.00GB,"3.70 GHz   ,3.70GHz",500 GB,4C-BB-58-A3-7B-03,B0-83-FE-A7-85-3B,Win7 Pro,,HP W1907v,,,1Y,29/09/2558
+KX,KX/PC/45,ศิราวุธ(โอ),PC,Office,HP pavilion,4CE5360F1B,Intel® Core™i3-4170,4.00GB,"3.70 GHz   ,3.70GHz",1TB,4C-BB-58-A3-F7-37,B0-83-FE-A8-AD-BA,Win10 upgrade,,HP 20wd,,,3Y,3/27/59
+OFFICE,ESS/PC/46,จรรยวรรธ์(อวย),PC,Office,Dell,PTI89RE,Intel® Core™i3-6100,8.0 GB,3.70 GHz,1 TB,,,Win 10 Pro,,Acer G205HL,ETLM408007773164252,-,-,-
+OFFICE,AC/PC/47,ปพิชญา (เอ๋),PC,Office,Dell,HQQG862,Intel® Core™i3-6100,4.00GB,3.70 GHz  ,500 GB,,F4:8E:38:93:7D:51,Win 7 Pro,,,,,3Y,7/15/59
+OFFICE,AC/PC/48,เบญจมาศ(เบญ),PC,Office,Dell,HQQJ862,Intel® Core™i3-6100,4.00GB,3.70 GHz  ,500 GB,40:49:0F:13:A1:F3,F4:8E:38:93:7D:4E,Win 10 Pro,,Dell 2016HV,CN-09Y41J-72872-5CP-DFAU,,3Y,7/15/59
+OFFICE,BD/PC/49,สมเกียรติ(หนุ่ม),PC,Office,PLENTY,-,Intel® Core™i3-2100,4.00GB,3.10 GHz,500 GB,,,Windows 10 Pro,,,,-,-,-
+OFFICE,HR/PC/50,ไพเราะ(พี่ไพ),PC,Office,Dell,6FBH8F2,Intel® Core™i3-6100,4.00GB,3.70 GHz  ,500 GB,40:49:0F:9E:57:03,F4:8E:38:74:8C:10,Windows 10 Pro,VRTWX-3NRQJ-8288Q-H2FPW-GVJXM,,,13986966494,3Y,9/2/59
+OFFICE,BD/PC/51,บุญญิสา(ติ๊ดตี่),PC,Office,Dell,TGH36KN,Intel® Core™i3-6100,4.00GB,3.70 GHz  ,500 GB,,40:49:0F:A7:2B:BF,Windows 10 Pro,,,,,3Y,9/2/59
+OFFICE,PC-PC-52,เบญจมาศ(เบญ),PC,Office,Dell (All in one),CMPKW22,Intel® Core™i3-6100,4.00GB,3.70 GHz  ,500 GB,,,Windows 10 Home,,,,,,
+OFFICE,PC-PC-53,จิราภรณ์(แม่ตุ้ม),PC,Office,Dell Vostro,2XW2VG2,Intel® Core™i5-6100,8.0 GB,2.70 GHz,1 TB,90:CD:B6:97:CA:CB,48:4D:7E:9C:60:1F,Windows 10 Pro,VRTWX-3NRQJ-8288Q-H2FPW-GVJXM,"Dell 2016HV  19.5""",72872-688-A37I,6402830259,3Y,27/12/2559
+OFFICE,SAT-PC-54,สิรวิชน์,PC,Office,Dell Vostro,DF3WT7,Intel® Core™i5-6100,8.0 GB,2.70 GHz,1 TB,,,Windows 10 Home,,,,,,
+OFFICE,PC-PC-55,มนัสนันท์,PC,Office,Dell Vostro 3668,9HY61H2,Intel® Core™i5-6400,8.0 GB,2.70 GHz,1 TB,28:CF:E9:04:7F:41,48:4D:7E:A7:FA:AB,Windows 7Pro,88WQ8-F8RKD-WY4MP-3GTHX-6G3Y9,"Dell 2016H 19.5""",7278-548-ED4M,,3Y,25/03/2560
+OFFICE,SKB-PC-56,ศักดิ์ชาย,PC,Office,Dell Vostro 3668,9J741H2,Intel® Core™i5-6400,4.0 GB,2.70 GHz,1 TB,28:56:5A:60:7C:35,48:4D:7E:B4:2E:D7,Windows 7Pro,XD9CW-VM26B-THH3B-YM6RQ-28TD4,"Dell E1916H 18.5""",72872-6AB-H09B,20751844214,3Y,25/03/2560
+OFFICE,HR-PC-57,ภรทิพย์,PC,Office,Dell Vostro 3668,B5B80J2,Intel® Core™i3-7100,4.0 GB,3.9 GHz,1 TB,,48:4D:7E:B5:6F:96,Windows 7 Pro,XD9CW-VM26B-THH3B-YM6RQ-28TD4,,,,3Y,25/03/2560
+OFFICE,SQ1-PC-58,อารักษ์,PC,Office,Dell Vostro 3669,8QJFHJ2,Intel® Core™i3-7100,4.0 GB,3.9 GHz,1 TB,D8:0F:99:48:56:0B,48:4D:7E:C7:5B:68,Windows 10 Pro,VRTWX-3NRQJ-8288Q-H2FPW-GVJXM,,,,3Y,28/04/2560
+OFFICE,BSE-PC-59,ประเซนต์,PC,Office,Dell Vostro 3650,9T85VG2,Intel® Core™i5-6400,8.0 GB,2.70 GHz,1 TB,,,Windows 10 Pro,,"Dell E2216 19.5""",7278-6BG-AP3U,,3Y,15/06/2560
+Office,SKB-PC-60,ศักดิ์ชาย,PC,Office,Dell Inspiron3668,-------,Intel® Core™i5-6400,8.0 GB,2.70 GHz,1 TB,F8:DA:0C:25:2C:77,50:9A:4C:08:E1:14,Windows 10 Pro,QF826-9NYC2-M8BX9-3GYRJ-W44DB,"Dell E2016HV 19.5""",CN-09WMP7-72872-71L-GH0U,34804119602,3Y,26/06/2560
+Office,PRO-PC-61,อาภัสรา อินทร์โรง (ตุ๊ก ฝึกงาน),PC,Office,Dell Vostro3668,54L2DK2,Intel® Core™i5-7400,4.0 GB,2.7 GHz,1 TB,F8:DA:0C:79:EB:AF,50:9A:4C:12:B1:8E,Windows 10 Pro Volume,,"Dell E2016H 19.5""",CN-0147F6-74261-6C3-09LU,11161159202,3Y,7/8/60
+Office,BSE-PC-62,ไพรัตน์ ,PC,ททบ5,Dell Inspiron3668,D6JYCK2,Intel® Core™i5-7400,8.0 GB,3.0 GHz,1 TB,54:12:79:22:43:93,50:9A:4C:11:A3:40,Windows 10 Pro OEM,WYDHN-C7JQY-R8CKP-C89QK-9HJXF,"Dell E2016H 19.5""",CN-045FV2-QDC00-760-564U,28694482706,3Y,26/9/2560
+Office,CEO-PC-63,CEO,PC AIO,Office,Dell optoplex,DMZ2GL2, Intel Core i5-7500 (QC/6MB/4T/3.4GHz/65W),8.0 GB,3.1 GHz,1 TB,,,Windows 10 Pro OEM,,,,,3Y,
+Office,ESS-PC-64,ธรรมธัช,PC,ESS office,Dell Inspiron3668,2M0YTK2,Intel® Core™i5-7400,8.0 GB,3.0 GHz,1 TB,54:13:79:6C:59:B1,50:94:4C:19:66:0E,Windows 10 Pro Volume,,"Dell E2016HV 19.5""",CN-0173Y9-FCC00-765-D7MU,5685445154,3Y,19/10/2560
+รพ.เด็ก,BSE-PC-65,สราวุฒิ ผ่องใส(086-347-2009,PC,รพ.เด็ก,Dell Ispiron3668,876RZL2,Intel® Core™i5-7400,8.0 GB,3.0 GHz,1 TB,,,Windows 10 Pro OEM,,,,,3Y,9/11/60
+มจธ. บางขุนเทียน,BSE-PC-66,พีรวุฒิ,PC,มจธ. บางขุนเทียน,Dell Ispiron3668,JHYYBD2,Intel® Core™i5-7400,8.0 GB,3.0 GHz,1 TB,B0-52-16-BC-05-DF,50-9A-4C-3C-AF-88,Windows 10 Pro OEM,MBCKN-6T3HF-DR4RJ-KWMDT-QYH3B,"Dell E2216HV 21.5""",CN-064CDC-FCC00-7AE-AMVB,42445497350,3Y,1/5/61
+ภูเก็ต,DSM-PC-67,ภูเก็ต,PC,DSM,Dell Ispiron3668,,Intel® Core™i5-7400,8.0 GB,3.0 GHz,1 TB,,,Windows 10 Pro OEM,,,,,,2/2/61
+OFFICE,,ปราโมทย์,PC,Office,Dell Precision T3620,GC6V7N2,Intel® Core™i7-7700k,16,4.2,1TB,,,Windows 10 Pro OEM,us-07pf46-79150-6c6-aj26,ไม่มี,,35565645422,,22/02/18
+OFFICE,innoPC31052018-001-3Y,ณัฐพงษ์ (พี่สอง),PC,Office,เครื่องประกอบ,,Intel® Core™i7-8700k,16,3.7 Ghz,SSD 250 + 1 TB,,,Windows 10 Pro OEM,,,,,3Y,
+OFFICE,innoPC31052018-002-3Y,ณัฐพิพัฒน์ (พี่ฮ็อต),PC,Office,เครื่องประกอบ,,Intel® Core™i7-8700k,16,3.7 Ghz,SSD 250 + 1 TB,,,Windows 10 Pro OEM,,,,,3Y,
+OFFICE,,จินตนา ลีลาวงค์สันต์,PC,SHEQ,DELL Vostro 3668,13CL7N2,Intel® Core™i7-7700k,8,3.6 Ghz,1 TB,,,,,,,11161159202,3Y,
+คลอง5(ทดแทนpc HP pavilon),innoPC05072018-001-3Y,,PC,คลอง5(ทดแทนpc HP),DELL ,8V1M6Q2,Intel® Core™i5-7700k,8,,1 TB,,,Windows 10 Pro,,,,,3Y,7/5/18
+,innoPC16072018-002-3Y,,PC,,,FNFQ6Q2,Intel® Core™i5-8400,8,2.81 Ghz,1 TB,,,Windows 10 Pro,,,,,3Y,7/11/18
+ท่าอากาศยานภูเก็ต,innoPC19072018-001-3Y,กฤติยา สุขเสงี่ยม,PC,ท่าอากาศยานภูเก็ต,DELL,3C31LQ2,Intel® Core™i5-8400,8,2.81 Ghz,1 TB,,,Windows 10 Pro,,,,,3Y,7/18/18
+ม.หัวเฉียว,innoPC08082018-001-3Y,ยศ พิไชยกาล,PC,ม.หัวเฉียว,DELL,31XF6Q2,Intel® Core™i5-8400,8,2.81 Ghz,1 TB,,,Windows 10 Pro,,/,,,3Y,
+กกท 25 ชั้น,innoPC18102018-001-3Y,สุภาวรรณ จันทนานนท์,PC,กกท 25 ชั้น,DELL,JM779R2,Intel® Core™i5-8400,8,2.81 Ghz,1 TB,,,Windows 10 HOME OEM,,/,,,3Y,10/17/18
+กกท,innoPC14112018-001-3Y,แพรพิไล รอดกลิ่น,PC,กกท,DELL,JFF59R2,Intel® Core™i5-8400,8,2.81 Ghz,1 TB,,,Windows 10 HOME OEM,,/,,,3Y,11/13/18
+Miniplant,innoPC26112018-001-3Y,ทิพวรรณ  คีรีพฤกษ์,PC,Miniplant,DELL,1ZQ7BS2,Intel® Core™i5-8400,8,2.81 Ghz,1 TB,,,Windows 10 HOME OEM,,/,,,3Y,11/22/18
+TOYOTA Motor,innoPC27022019-001-3Y,สิริประภา ร่มจำปา,PC,Toyota Motor,DELL,C0BF9V2,Intel® Core™i5-8400,8,2.81 Ghz,1 TB,,,Windows 10 HOME OEM,,/,,,3Y,2/27/19
+ท่าอากาศยานภูเก็ต,innoPC26032019-001-3Y,ทัศนวรรณ ครองแสนเมือง,PC,ท่าอากศยานภูเก็ต,DELL,GHHC9V2,Intel® Core™i5-8400,8,2.81 Ghz,1 TB,,,Windows 10 HOME OEM,,/,,,3Y,3/22/19
+Thai PBS,innoPC08052019-001-3Y,นิภาภรณ์ อบอุ่น,PC,Thai PBS,DELL,9WWFBW2,Intel® Core™i5-8400,8,2.81 Ghz,1 TB,,,Windows 10 HOME OEM,,,,,3Y,5/8/19

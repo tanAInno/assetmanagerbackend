@@ -1,0 +1,116 @@
+name,adminpass,type,department,brand,gen,model,serial,warranty,dealer,date
+HR/PJ/01,,Projector,HR,Epson,EB-X36,H723C,WFEK5500633,2Y,,10/20/58
+ADM/PJ/02,,Projector,ADM,Epson,EB-W31,H730C,WFNK7500272,2Y,,16/08/2560
+VBH/MT/01,,จอคอมฯ,BSE,HP,w1707,,CNC8270S1X,-,,5/18/58
+PC/MT/11,,จอคอมฯ,PC,Dell,E2014H,,CN022R0T72872548ED4MA02,1 Y,,8/17/58
+IT,,จอคอมฯ,IT,Samsung,S24D300H,LS24D300HS/XT,ZZCCH4ZH200168,,,1/5/61
+Design1,,จอคอมฯ,Design,Dell,,,CN-OKY4FT-QDC00-82E-0C9L,3 Y,,4/10/61
+Design2,,จอคอมฯ,Design,Dell,,,CN-OKY4FT-QDC00-82E-09HL,3 Y,,4/10/61
+innoMT22112018-001-3Y,,จอคอมฯ,BSE,Samsung,,S24F350FHE,ZZNPH4ZK600223X,3Y,,11/22/61
+-/PT/01,,Laser Printer ,-,Brother,,HL-2270DW,E69591H3N336028,1 Years,บมจ.ออฟฟิศเมท,10/15/57
+BCC/PT/02,004-57-0003,Laser Printer ,BSE,Canon,PIXMA MP237,MP237,E69591H3N336028,1 Years,,10/15/57
+GPD/PT/03,004-57-0004,Inkjet Printer,BSE,Canon,PIXMA MP287,,,,,10/15/57
+KMT/PT/04,004-57-0005,,BSE,,,,,,,
+BD/PT/05,,Deskjet Inkjet,BD,HP,Advantage2545 All-in-one,,CN495370D9,1 Years,บมจ.ออฟฟิศเมท,10/10/57
+TN/PT/06,,Deskjet Inkjet,TN,HP,Advantage3545 All-in-one,,CN26S1D0KD,,,
+TNC1/PT/07,004-57-0014,Laser Printer ,BSE/พระราม7,Canon,PIXMA MP237,MP237,LSMF60289,1 Years,Advice,11/24/57
+TNC2/PT/08,004-57-0015,Laser Printer ,BSE/วงศ์สว่าง,Canon,PIXMA MP237,MP237,LSMF60292,1 Years,Advice,11/24/57
+TNC3/PT/09,004-57-0016,Laser Printer ,BSE/สวนมะลิ,Canon,PIXMA MP237,MP237,LSMF66015,1 Years,Advice,11/24/57
+TNC4/PT/10,004-57-0017,Laser Printer ,BSE/รัชดา,Canon,PIXMA MP237,MP237,LSMF60288,1 Years,Advice,11/24/57
+TNC5/PT/11,,Laser Printer ,BSE/บางปู,Canon,PIXMA MP237,MP237,-,-,-,11/24/57
+TNC6/PT/12,004-57-0018,Laser Printer ,BSE/MBK,Canon,PIXMA MP237,MP237,LSMF61172,1 Years,Advice,11/24/57
+DIC/PT/13,004-57-0018,Laser Printer ,BSE/ทิพยประกันภัย,Canon,PIXMA MP237,MP237,LSMF61175,1 Years,Advice,11/24/57
+KCB/PT14,,Deskjet Inkjet,BSE/KCB,HP,Advantage2545 All-in-one,Deskjet 2545,CN49537017,1 Years,บมจ.ออฟฟิศเมท,12/4/57
+HCU/PT/15,,Deskjet Inkjet,ม.หัวเฉียว,EPSON,EPSON LP210, ,RADK398082,1 Years,Advice,3/13/58
+,,Laser Printer ,,Canon,PIXMA MP237,MP237,,,,
+VBH/PT/16,,Laser Printer ,,Canon,Epson l 210,L 210,RADK359408,1 Years,,2/20/58
+BPK9/PT/17,,Deskjet Inkjet,,EPSON,EPSON LP210,LP210,RADK383481,1 Years,Advice,3/13/58
+THU/PT/18,,Deskjet Inkjet,,EPSON,EPSON LP210,LP210,RADK399829,1 Years,Advice,3/13/58
+KX/PT/19,,Deskjet Inkjet,,EPSON,EPSON LP211,C4624H,RADK364294,2 Years,Advice,7/14/58
+VET/PT/20,,Deskjet Inkjet Tank,สัตวแพทย์,EPSON,EPSON L310,L310,VHRK000749,,,9/30/58
+-/PT/21,,Deskjet Inkjet Tank,เอากลับออฟฟิช,EPSON,EPSON L310,L310,VHRK000788,1 Years,Advice,9/30/58
+SQ1/PT/22,,Deskjet Inkjet Tank,SQ1,EPSON,EPSON L365,L365,VHAK004153,1 Years,Lazada(Synnex),8/15/58
+TYT1/PT/23,,Deskjet Inkjet Tank,โตโยต้า เกษตร-นวมินทร์,EPSON,EPSON L210,L210,RADK378180,1 Years,Lazada(Synnex),10/15/58
+CCI/PT/24,,Deskjet Inkjet Tank,ทรวงอก,EPSON,EPSON L310,L310,,1Years,,10/27/58
+OHM/PT/25,,Deskjet Inkjet Tank,สำนักราช,EPSON,EPSON L220,L220(C462H),VGUK075062,1 Years,Lazada(Synnex),11/30/58
+VTK/PT/26,,Deskjet Inkjet Tank,วิทยกิตต์,EPSON,EPSON L220,L220,VGUK068153,1 Years,Lazada(Synnex),12/17/58
+RMUT/PT/27,,Deskjet Inkjet Tank,คลอง6ธัญญบุรี,Brother,MFC-J2720,MFC-J2720, E74088E5F236511,1 Years,Officemate,3/11/59
+TNC6/PT/28,,Deskjet Inkjet Tank,BSE,EPSON,EPSON L220,L220,VGUK141890,2 Years,Officemate,3/18/61
+MNP/PT/29,,Deskjet Inkjet Tank,BSE,EPSON,EPSON L220,L220,VGUK141897,2 Years,Officemate,3/18/61
+QIH/PT/30,,Deskjet Inkjet Tank,EEC,EPSON,EPSON L220,L220(C462H),VGUK167483,2 Years,Advice,5/11/59
+ฟลอรั่ม/PT/31,,Deskjet Inkjet Tank,BSE,EPSON,EPSON L220,L220(C462H),VGUK238834,2 Years,Miracomputer,7/15/61
+HCU/PT/32,,Deskjet Inkjet Tank,BSE,EPSON,EPSON L220,L220(C462H),VGUK311643,2 Years,Miracomputer,8/17/59
+SLY/PT/33,,Deskjet Inkjet Tank,BSE,EPSON,EPSON L220,L220(C462H),VGUK319007,2 Years,Miracomputer,8/17/59
+SIK/PT/34,,Deskjet Inkjet Tank,BSE,EPSON,EPSON L360,L360,VGDK083569,1 Year,Advice,31/03/2560
+ESS/PT/35,,Deskjet Inkjet Tank,ESS,EPSON,EPSON L360,L360,VGDK220111,1 Year,Miracomputer,21/08/2560
+PT/36,,Deskjet Inkjet Tank,โรงพยาบาลเด็ก,EPSON,EPSON L360,L360(C462H),X5C3062319,1 Year,ภัทร โปรเกรส,1/29/61
+PT/37,,Deskjet Inkjet Tank,กกท. 25ชั้น (อัพเดทของเก่า),EPSON,EPSON L210,L210(C462H),RADK359923,,,
+กกท.,,Deskjet Inkjet Tank,กกท. 25ชั้น,Brother,DCP-T710W,T310,E78669M7H785707,,,
+innoPT26072018-001-1Y,,Deskjet Inkjet Tank,โครงการ สถาบันสุขภาพเด็กเเห่งชาติมหาราชินี,Brother,DCP-T310,T310,E78655M7H800244,1 Year,,7/26/61
+innoPT02082018-001-1Y,,Deskjet Inkjet Tank,กรุงเทพคริสเตียน,Brother,DCP-T310,T310,E78655E8H704594,1 Year,,8/2/61
+innoPT04102018-001-1Y,,Deskjet Inkjet Tank,กองบัญชาการทหาร,Brother,DCP-T310,T310,E78655H8H345742,1 Year,,10/4/18
+innoPT26112018-001-1Y,,Deskjet Inkjet Tank,วิทยกิตต์,Brother,DCP-T310,T310, E78655G8H156752,,,11/26/18
+innoPT03122018-001-1Y,,Deskjet Inkjet Tank,SQ1,Brother,MFC-T4500DW,T4500DW,E78947J8H635161,1 Year,Advice,12/3/18
+หัวเฉียว,,Deskjet Inkjet Tank,ม.หัวเฉียว,Epson,L360,L360,X5C3000126,2 Year,,
+innoPT27022019-001-1Y,,Deskjet Inkjet Tank,TOYOTA Motor,Brother,DCP-T310,T310,E78655J8H538716,1 Year,Advice,
+innoPT06032019-001-2Y,,Deskjet Inkjet Tank,มจธ.บางขุนเทียน,Epson,L1455,L1455,X2SK018922,2 Year,Advice,3/6/19
+innoPT08032019-001-2Y,,Deskjet Inkjet Tank,ทิพยประกันภัย,Brother,DCP-T310,T310,E78655A9H291770,2 Year,Officemate,3/8/19
+innoPT03042019-001-2Y,,Deskjet Inkjet Tank,Thai PBS,Brother,DCP-T310,T310,E78655A9H272236,2 Year,Officemate,4/3/19
+innoPT05042019-001-2Y,,Deskjet Inkjet Tank,ธนชาติ บางปู,Brother,DCP-T310,T310,E78655A9H319888,2 Year,Officemate,4/5/19
+innoPT10052019-001-2Y,,Deskjet Inkjet Tank,พิพิธภัณฑ์ศิลป์แผ่นดิน,Brother,DCP-T310,T310,E78655C9H684901,2 Year,Officemate,5/10/19
+DIC/TR/01,004-57-0001,เครื่องตอกบัตร,BSE,Vertex,,VT-810,,1 Years,บมจ.ออฟฟิศเมท,10/15/57
+CCI/TR/02,004-57-0002,เครื่องตอกบัตร,BSE,Vertex,,VT-810,,1 Years,บมจ.ออฟฟิศเมท,10/15/57
+TNC1/TR/03,004-57-0011,เครื่องตอกบัตร,TNC/พระราม7,Vertex,,VT-810,BNB81104675,1 Years,บมจ.ออฟฟิศเมท,11/20/57
+TNC2/TR/04,004-57-0010,เครื่องตอกบัตร,TNC/วงศ์สว่าง,Vertex,,VT-810,BNB81104666,1 Years,บมจ.ออฟฟิศเมท,11/20/57
+TNC3/TR/05,004-57-0008,เครื่องตอกบัตร,TNC/สวนมะลิ,Vertex,,VT-810,BNB81104602,1 Years,บมจ.ออฟฟิศเมท,11/20/57
+TNC4/TR/06,004-57-0012,เครื่องตอกบัตร,TNC/รัชดา,Vertex,,VT-810,BNB81104663,1 Years,บมจ.ออฟฟิศเมท,11/20/57
+TNC5/TR/07,004-57-0009,เครื่องตอกบัตร,TNC/บางปู,Vertex,,VT-810,BNB81104625,1 Years,บมจ.ออฟฟิศเมท,11/20/57
+TNC6/TR/08,004-57-0013,เครื่องตอกบัตร,TNC/MBK,Vertex,,VT-810,BNB81104600,1 Years,บมจ.ออฟฟิศเมท,11/20/57
+SS/UP/01,001-57-0025,UPS,SS,Chuphotic,,,10972UP131138,3 Years,บ.ชูโฟทิค ยูพีเอส,10/15/57
+TNC3/UP/02,,UPS,BSE,Esmart,,ESeries-10,T300957ESM100412,3 Years,บ.ออฟฟิคเมส,11/18/57
+HR/UP/03,,UPS,HR,ETECH,,Ego,T090859EGO1129535,2 Year,บ.Miracomputer,10/18/59
+IT/UP/04,,UPS,IT,Leonics,,,,2 Year,,
+IT/UP/05,,UPS,IT,Stable lines,,SL Pro 1000VA,,2 Year,,
+InnoUPS31072018-001-2Y,,UPS,MK/BD,Syndome,,ECO ll - 850,180704040520651,2 Year,,8/1/61
+InnoUPS31072018-002-2Y,,UPS,MK/BD,Syndome,,ECO ll - 851,180704040520652,2 Year,,8/1/61
+InnoUPS31072018-003-2Y,,UPS,PRO,Syndome,,ECO ll - 852,180704040520654,2 Year,,8/1/61
+InnoUPS31072018-004-2Y,,UPS,Finance,Syndome,,ECO ll - 853,180704040520649,2 Year,,8/1/61
+InnoUPS31072018-005-2Y,,UPS,ACC,Syndome,,ECO ll - 854,180704040520650,2 Year,,8/1/61
+InnoUPS31072018-006-2Y,,UPS,AFM,Syndome,,ECO ll - 855,180704040520653,2 Year,,8/1/61
+InnoUPS31072018-007-2Y,,UPS,AFM,Syndome,,ECO ll - 856,180704040520655,2 Year,,8/1/61
+innoUPS15052019-001-2Y,,UPS,HR,Syndome,,ECO ll - 800i,190404040521526,2 Year,,5/15/62
+HR/FP/01,ttb5,เครื่องสแกนนิ้ว,HR,HIP,,CMI817U,U8171709026,1 Years,บริษัท HIP,12/10/60
+HR/FP/02,KU,เครื่องสแกนนิ้ว,HR,HIP,,CMI817U,U8171709027,1 Years,บริษัท HIP,12/10/60
+BCC/RT/01,,Aircard WiFi,S3,TP-LINK,,TL-MR3020,13562405534,3 Years,,2/10/57
+IT/RT/02,,Router VPN,IT,Cisco,,RV320,NKS17201503,,บ. โทเทิ่ล ไอที จำกัด,11/10/57
+IT/RT/03,,Universal WiFi,IT,TP-LINK,,TL-WA850RE,2144376002294,3 Years,Advice,1/15/58
+IT/RT/04,,Access point,IT,Ubiquiti Unifi,,UAP-LR,0418D6F2AEF6,1 Year,ABSolute,8/17/58
+IT/RT/05,,Router Wifi 3bb,IT,,,,,,,
+IT/RT/06,,Router Wifi True,IT,,,,,,,
+IT/RT/07,,Router Wifi ,IT,D-Link,,Dir600,,,,
+IT/RT/08,,Access point,IT,TP-LINK,,TL-WA901ND,2154314001697,LT,Advice,10/15/58
+IT/RT/09,,Router 3G/4G,IT,TP-LINK,,TL-MR6400,2175338002083,LT,Phataraprogres,27/10/2560
+IT/HU/01,,Desktop Switch,IT,TP-LINK,,TL-SG1008D,2144059003566,LT,Advice,1/15/58
+IT/HU/02,,Desktop Switch,IT,TP-LINK,,TL-SG1008D,2144059003575,LT,Advice,1/15/58
+IT/HU/03,,Desktop Switch,IT,TP-LINK,,TL-SG1008D,2151307008921,LT,Advice,8/17/58
+IT/HU/04,,Desktop Switch,IT,TP-LINK,,TL-SG1008D,2151307007786,LT,Advice,8/17/58
+IT/HU/05,,Desktop Switch,IT,TP-LINK,,TL-SG105,13C81904005,LT,Advice,10/15/58
+IT/HU/06,,Desktop Switch,IT,TP-LINK,,TL-SG186,21676060002926,LT,Miracomputer,1/11/60
+BCC/AC/01,,Aircard 3G,S3,Dtac,,,329722250486,,,18/7/2557
+PRO/AC/02,,Aircard 3G,PRO,AIS,,,D7LBY14801023459,,ศูนย์AIS เดอะมอ,2/16/58
+PRO/AC/03,,Aircard 3G,PRO,AIS,,,D7LBY14801023532,,ศูนย์AIS เดอะมอ,2/16/58
+SP/HD/01,001-57-0006,Harddisk,SP,Toshiba,,HDTB120AK3CA,1442PBXOTXR6,3 Years,,2/10/57
+SS/HD/02,001-57-0005,Harddisk,SS,Toshiba,,HDTB120AK3CA,147OPJKHTXR6,3 Years,,2/10/57
+QS/HD/03,001-57-0017,Harddisk,QS,Seagate,1 TB,SRD00F1,NA760T88,1 Years,,28/5/2557
+TN/HD/04,001-57-0023,Harddisk,TN,Seagate,1 TB,SRD00F1,NA7880DR,1 Years,,7/17/57
+TN/HD/05,001-57-0024,Harddisk,TN,Seagate,1 TB,SRD00F1,NA7880CX,1 Years,,7/17/57
+PD/HD/06,001-57-0012,Harddisk,PD,WD Elements,1TB,WDBUZG0010BBK-PESN,WXJ1EA3LYMY2,,,10/15/57
+PD/HD/07,001-57-0011,Harddisk,PD,WD Elements,1TB,WDBUZG0010BBK-PESN,WXJ1EA3JHNH3,,,10/15/57
+BD/HD/08,,Harddisk,BD,Seagate,1TB,SRD00F1,NA78FN4E,3 Years,บมจ.ออฟฟิศเมท,10/17/57
+BD/HD/09,,Harddisk,BD,Seagate,1TB,SRD00F1,NA78FN4B,3 Years,บมจ.ออฟฟิศเมท,10/17/57
+PC/HD/10,,Harddisk,PC,Seagate,1TB,SRD00F1,NA791AX0,,,10/30/57
+BD/HD/11,,Harddisk,BD,Seagate,1TB,SRD00F1,NA7NXPDV,1 Years,บมจ.ออฟฟิศเมท,3/16/59
+innoHD22112018-001-3Y,,Harddisk,BSE,WD Passport,2TB,,WX31E380NS8N,3Y,ภัทรโปรเกส,11/22/21
+innoHD27022019-002-3Y,,Harddisk,HR,WD Passport,2TB,,WX51AB8L40A0,3Y,ADVICE,2/27/22
+innoHD27022019-001-3Y,,Harddisk,BSE,WD Passport,2TB,,WXE1E584MPH1,3Y,ADVICE,2/27/22
+innoHD13032019-001-3Y,,SSD+BOX OKER,IT,Apacer,480 GB,AS350,141905222528,3Y,ADVICE,3/13/19
